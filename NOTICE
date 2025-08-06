@@ -1,0 +1,9 @@
+This project includes Infrastructure as Code written for use with:
+
+- Terraform CLI (developed by HashiCorp, under the MPL 2.0 or BUSL 1.1 license)
+- Terraform AWS Provider (developed by HashiCorp, under BUSL 1.1)
+
+These tools are not included in this repository but are required to run the code.
+They are governed by their respective licenses.
+
+The module code in this repository is original work by Cloudvisor.
